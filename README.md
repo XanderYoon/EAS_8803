@@ -12,14 +12,14 @@ Welcome to the GitHub repository for **Machine Learning for Earth & Environmenta
 
 ## Table of Contents
 
-- [Week 1: Introduction to Python and Tools](#week-1-introduction-to-python-and-tools)
-- [Week 2: Feature Engineering and Dimensionality Reduction](#week-2-feature-engineering-and-dimensionality-reduction)
-- [Week 3: Unsupervised Learning and Clustering](#week-3-unsupervised-learning-and-clustering)
-- [Week 4: Introduction to Supervised Learning](#week-4-introduction-to-supervised-learning)
+- [Week 1: Introduction to Python and Tools](https://github.com/XanderYoon/EAS_8803/tree/main/Week_1)
+- [Week 2: Feature Engineering and Dimensionality Reduction](https://github.com/XanderYoon/EAS_8803/tree/main/Week_2)
+- [Week 3: Unsupervised Learning and Clustering](https://github.com/XanderYoon/EAS_8803/tree/main/Week_3)
+- [Week 4: Introduction to Supervised Learning](https://github.com/XanderYoon/EAS_8803/tree/main/Week_4)
 - [Week 5: Bayesian Models](#week-5-content-coming-soon)
-- [Week 6: Advanced Machine Learning Models and Data Manipulation](#week-6-advanced-machine-learning-models-and-data-manipulation)
-- [Week 7: Introduction to Deep Learning](#week-7-introduction-to-deep-learning)
-- [Week 8: Convolutional and Recurrent Neural Networks](#week-8-convolutional-and-recurrent-neural-networks)
+- [Week 6: Advanced Machine Learning Models and Data Manipulation](https://github.com/XanderYoon/EAS_8803/tree/main/Week_6)
+- [Week 7: Introduction to Deep Learning](https://github.com/XanderYoon/EAS_8803/tree/main/Week_7)
+- [Week 8: Convolutional and Recurrent Neural Networks](https://github.com/XanderYoon/EAS_8803/tree/main/Week_8)
 
 ## Contact Information
 
