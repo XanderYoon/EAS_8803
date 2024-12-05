@@ -1,7 +1,7 @@
 # Machine Learning for Earth & Environmental Sciences 
-## (EAS 8803/4803) - Spring 2024
+## (EAS 8803/4803) - Spring 2025
 
-Welcome to the GitHub repository for **Machine Learning for Earth & Environmental Sciences (EAS 8803/4803)**, Spring 2024. This course is designed to equip you with the fundamental and advanced machine learning techniques applied to Earth and Environmental Sciences.
+Welcome to the GitHub repository for **Machine Learning for Earth & Environmental Sciences (EAS 8803/4803)**, Spring 2025. This course is designed to equip you with the fundamental and advanced machine learning techniques applied to Earth and Environmental Sciences.
 
 ## Course Information
 
