@@ -20,7 +20,8 @@ Welcome to the GitHub repository for **Machine Learning for Earth & Environmenta
 - [Week 6: Advanced Machine Learning Models and Data Manipulation](https://github.com/XanderYoon/EAS_8803/tree/main/Week_6)
 - [Week 7: Introduction to Deep Learning](https://github.com/XanderYoon/EAS_8803/tree/main/Week_7)
 - [Week 8: Convolutional and Recurrent Neural Networks](https://github.com/XanderYoon/EAS_8803/tree/main/Week_8)
-
+- [Week 10: Advanced Deep Learning Models](https://github.com/XanderYoon/EAS_8803/tree/main/Week_10)
+  
 ## Contact Information
 
 For any questions or concerns regarding the course, please reach out to:
