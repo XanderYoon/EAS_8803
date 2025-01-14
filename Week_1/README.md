@@ -29,3 +29,6 @@ Welcome to Week 1! This week introduces you to the basic syntax and structure of
 - NumPy
 - Pandas
 - Python
+
+**Alexander Yoon**
+- Pandas
