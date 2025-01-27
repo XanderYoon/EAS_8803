@@ -8,8 +8,9 @@ In Week 4, we begin our exploration of **supervised learning**, a fundamental ma
 ### Files
 
 - **[Regressions.ipynb](Regressions.ipynb)**  
-  An introductory notebook on implementing **Linear Regression** and **Logistic Regression** using Scikit-learn. 
+  Implemented multiple different types of statistical/algebraic regressions onto a [wild fire dataset](https://www.kaggle.com/datasets/elikplim/forest-fires-data-set?resource=download).
 
 ## Credits
-**Joseph Yoo**
+**Alexander Yoon**
 - Regressions.ipynb
+
