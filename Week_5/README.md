@@ -1,15 +1,15 @@
-# Week 5: Supervised Learning (Classifcation)
+# Week 5: Bayesian Models
 
 ## Overview
-In Week 5 we will create models to classify labeled data. 
+In Week 5, we delve into statistical models. 
 
 ## Contents
 
 ### Files
-- **[Classification.ipynb](Classification.ipynb)**  
-  Walkthrough for SVM, Decision Tree, Random Forest, and K-Nearest Neighbor (KNN) model applications to predict drought intensities. 
+- **[Naive_Bayes.ipynb](Naive_Bayes.ipynb)**  
+    Predicts ENSO patterns using sea surface temperatures and respective anomalies. 
 
 ## Credits
 
 **Alexander Yoon**
-- Trees.ipynb
+- Naive_Bayes.ipynb
